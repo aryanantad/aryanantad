@@ -24,3 +24,47 @@
 
 
 # Hi 👋, I'm Aryan Antad
+
+## 👨‍💻 About Me
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+
+💡 Passionate about AI, Machine Learning, NLP, Generative AI and Full Stack AI Applications.
+
+🚀 Currently building:
+- Smart Travel Companion
+- AI Healthcare Chatbot
+- Landslide Early Warning System
+
+🌱 Learning:
+- Agentic AI
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,flutter,fastapi,mongodb,git,github,vscode,html,css,docker" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aryanantad&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanantad&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack |
+|---------|------------|
+| 🌍 Smart Travel Companion (Ongoing) | Flutter • FastAPI • OCR • AI |
+| 🌄 Smart Landslide Early Warning | Machine Learning • Python |
+| 🎬 Movie Recommendation System | NLP • TF-IDF • FastAPI • Streamlit |
+| 🏥 Healthcare Chatbot | NLP • Python • AI |
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aryanantad&style=for-the-badge&color=blue"/>
+</p>
+
