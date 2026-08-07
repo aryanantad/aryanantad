@@ -15,6 +15,7 @@ AI & Machine Learning Engineer | Python Developer | Full Stack AI Enthusiast
 <p align="center">
 Building AI-powered applications using Machine Learning, NLP, FastAPI, Flutter and Generative AI.
 
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -42,7 +43,7 @@ Building AI-powered applications using Machine Learning, NLP, FastAPI, Flutter a
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,flutter,fastapi,mongodb,firebase,docker,git,github,vscode,html,css" />
 </p>
-### AI / ML
+AI / ML
 
 - Machine Learning
 - Deep Learning
@@ -77,13 +78,16 @@ Building AI-powered applications using Machine Learning, NLP, FastAPI, Flutter a
 
 - ## 🐍 Contribution Graph
 
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/aryanantad/aryanantad/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/aryanantad/aryanantad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ## 📈 Contribution Activity
 
-[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanantad&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanantad&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ## 🚀 Featured Projects
 
