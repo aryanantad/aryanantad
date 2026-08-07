@@ -1,20 +1,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryanantad/aryanantad/main/banner.png" width="100%" alt="Banner">
 </p>
-<p align="center">
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Antad;AI+%26+Machine+Learning+Engineer;Python+Developer;Building+AI-Powered+Applications;Machine+Learning+%7C+NLP+%7C+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=✨+Hi,+I'm+Aryan+Antad;🤖+AI+%26+Machine+Learning+Engineer;🚀+Building+AI+Solutions+for+Real-World+Problems;🌍+Currently+Developing+OneTrip;🧠+Machine+Learning+•+NLP+•+Generative+AI;💻+Python+•+FastAPI+•+Flutter;🏆+Hackathon+Finalist;📚+Always+Learning+•+Always+Building" alt="Typing SVG" />
 </p>
-<h1 align="center">Hi 👋, I'm Aryan Antad</h1>
 
-<h3 align="center">
-AI & Machine Learning Engineer | Python Developer | Full Stack AI Enthusiast
-</h3>
+✨ Hi, I'm Aryan Antad, an AI & Machine Learning Engineer passionate about building AI solutions that solve real-world problems.
 
-<p align="center">
-Building AI-powered applications using Machine Learning, NLP, FastAPI, Flutter and Generative AI.
+I'm currently developing **OneTrip**, an AI-powered travel companion that combines OCR, intelligent recommendations, expense tracking, and trip management into a single platform.
 
+I enjoy exploring Machine Learning, Natural Language Processing, Generative AI, and Full-Stack AI development. Whether it's creating recommendation systems, healthcare chatbots, or disaster prediction models, I love turning ideas into practical applications.
+
+I believe the best way to grow as an engineer is by building, experimenting, solving challenging problems, and continuously learning new technologies.
 
 ## 📫 Connect with Me
 
@@ -76,17 +75,6 @@ AI / ML
 - Travel
 - Disaster Management
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryanantad/aryanantad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanantad&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
 
 ## 🚀 Featured Projects
 
