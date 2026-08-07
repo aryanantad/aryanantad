@@ -6,6 +6,20 @@
 <h1 align="center">Hi 👋, I'm Aryan Antad</h1>
 
 <h3 align="center">
+AI & Machine Learning Engineer | Python Developer | Full Stack AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+AI+Applications+for+Real-World+Problems;Machine+Learning+%7C+NLP+%7C+Generative+AI;Flutter+%7C+FastAPI+%7C+Python;Hackathon+Finalist+🏆;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+💡 Passionate about creating intelligent software that makes a real-world impact.
+</p>
+
+<h1 align="center">Hi 👋, I'm Aryan Antad</h1>
+
+<h3 align="center">
 AI & Machine Learning Engineer | Python Developer | AI Enthusiast
 </h3>
 
@@ -13,6 +27,21 @@ AI & Machine Learning Engineer | Python Developer | AI Enthusiast
 Building AI-powered applications that solve real-world problems using Machine Learning, NLP, FastAPI and Flutter.
 </p>
 
+## 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/aryan-antad">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aryanantad1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryanantad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 ## 🚀 Currently Working On
 
 - 🌍 Smart Travel Companion (Flutter + FastAPI + AI)
@@ -95,21 +124,7 @@ Context-aware chatbot using Natural Language Processing.
 
 🔗 https://github.com/aryanantad/your-repo
 
-## 📫 Connect with Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/aryan-antad">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aryanantad1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aryanantad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </p>
 
