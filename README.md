@@ -3,63 +3,119 @@
 </p>
 <p align="center">
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+AI-Powered+Solutions;Hackathon+Finalist+%F0%9F%8F%86" alt="Typing Animation" />
+<h1 align="center">Hi 👋, I'm Aryan Antad</h1>
+
+<h3 align="center">
+AI & Machine Learning Engineer | Python Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+Building AI-powered applications that solve real-world problems using Machine Learning, NLP, FastAPI and Flutter.
+</p>
+
+## 🚀 Currently Working On
+
+- 🌍 Smart Travel Companion (Flutter + FastAPI + AI)
+- 🌄 Smart Landslide Early Warning System
+- 🤖 Exploring Agentic AI & Multi-Agent Systems
+
+ <h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,flutter,fastapi,mongodb,firebase,docker,git,github,vscode,html,css" />
+</p>
+### AI / ML
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- Pattern Recognition
+- Computer Vision
+
+- ## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanantad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanantad&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aryan-antad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:aryanantad1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/aryanantad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
+<img src="https://streak-stats.demolab.com?user=aryanantad&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 🏆 Achievements
 
+🥇 AIU Anveshan National Finalist
 
-# Hi 👋, I'm Aryan Antad
+🥈 Riverathon National Hackathon Finalist
 
-## 👨‍💻 About Me
+🎓 B.Tech Artificial Intelligence & Machine Learning
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+💻 Built multiple AI applications in
+- Healthcare
+- Travel
+- Disaster Management
 
-💡 Passionate about AI, Machine Learning, NLP, Generative AI and Full Stack AI Applications.
-
-🚀 Currently building:
-- Smart Travel Companion
-- AI Healthcare Chatbot
-- Landslide Early Warning System
-
-🌱 Learning:
-- Agentic AI
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-
-## 🛠 Tech Stack
+- ## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,flutter,fastapi,mongodb,git,github,vscode,html,css,docker" />
+<img src="https://raw.githubusercontent.com/aryanantad/aryanantad/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+## 📈 Contribution Activity
 
+[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanantad&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack |
-|---------|------------|
-| 🌍 Smart Travel Companion (Ongoing) | Flutter • FastAPI • OCR • AI |
-| 🌄 Smart Landslide Early Warning | Machine Learning • Python |
-| 🎬 Movie Recommendation System | NLP • TF-IDF • FastAPI • Streamlit |
-| 🏥 Healthcare Chatbot | NLP • Python • AI |
+### 🌍 Smart Travel Companion
+AI-powered travel assistant with OCR, expense tracking, AI recommendations and Flutter.
+
+🔗 https://github.com/aryanantad/your-repo
+
+---
+
+### 🌄 Smart Landslide Early Warning System
+Machine Learning system for disaster prediction.
+
+🔗 https://github.com/aryanantad/your-repo
+
+---
+
+### 🎬 Movie Recommendation System
+Content-based recommendation engine using NLP, TF-IDF, FastAPI and Streamlit.
+
+🔗 https://github.com/aryanantad/Movie-Recommendation-System
+
+---
+
+### 🏥 AI Healthcare Chatbot
+Context-aware chatbot using Natural Language Processing.
+
+🔗 https://github.com/aryanantad/your-repo
+
+## 📫 Connect with Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryanantad&style=for-the-badge&color=blue"/>
+
+<a href="https://linkedin.com/in/aryan-antad">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aryanantad1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryanantad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
+
+---
+
+⭐ *"Building AI-powered solutions that create real-world impact."*
+
+![](https://komarev.com/ghpvc/?username=aryanantad&style=for-the-badge)
 
