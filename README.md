@@ -76,11 +76,10 @@ AI / ML
 - Travel
 - Disaster Management
 
-- ## 🐍 Contribution Graph
-
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanantad/aryanantad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/aryanantad/aryanantad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ## 📈 Contribution Activity
