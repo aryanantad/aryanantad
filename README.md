@@ -10,13 +10,8 @@ AI & Machine Learning Engineer | Python Developer | Full Stack AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+AI+Applications+for+Real-World+Problems;Machine+Learning+%7C+NLP+%7C+Generative+AI;Flutter+%7C+FastAPI+%7C+Python;Hackathon+Finalist+🏆;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80" />
+Building AI-powered applications using Machine Learning, NLP, FastAPI, Flutter and Generative AI.
 </p>
-
-<p align="center">
-💡 Passionate about creating intelligent software that makes a real-world impact.
-</p>
-
 <h1 align="center">Hi 👋, I'm Aryan Antad</h1>
 
 <h3 align="center">
