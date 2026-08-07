@@ -4,7 +4,8 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+AI+Applications+for+Real-World+Problems;Machine+Learning+%7C+NLP+%7C+Generative+AI;Flutter+%7C+FastAPI+%7C+Python;Hackathon+Finalist+🏆;Always+Learning+📚+Always+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+AI-Powered+Applications;NLP+%7C+Generative+AI+%7C+FastAPI;Flutter+Developer;Hackathon+Finalist+🏆" alt="Typing SVG" />
+</p>
 </p>
 <h1 align="center">Hi 👋, I'm Aryan Antad</h1>
 
@@ -30,6 +31,7 @@ Building AI-powered applications using Machine Learning, NLP, FastAPI, Flutter a
 <a href="https://github.com/aryanantad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 ## 🚀 Currently Working On
 
 - 🌍 Smart Travel Companion (Flutter + FastAPI + AI)
