@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=✨+Hi,+I'm+Aryan+Antad;🤖+AI+%26+Machine+Learning+Engineer;🚀+Building+AI+Solutions+for+Real-World+Problems;🌍+Currently+Developing+OneTrip;🧠+Machine+Learning+•+NLP+•+Generative+AI;💻+Python+•+FastAPI+•+Flutter;🏆+Hackathon+Finalist;📚+Always+Learning+•+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Hi%2C+I'm+Aryan+Antad;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%9A%80+Building+AI+Solutions+for+Real-World+Problems;%F0%9F%8C%8D+Currently+Developing+OneTrip;%F0%9F%A7%A0+Machine+Learning+%7C+NLP+%7C+Generative+AI;%F0%9F%92%BB+Python+%7C+FastAPI+%7C+Flutter;%F0%9F%8F%86+Hackathon+Finalist;%F0%9F%93%9A+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 ✨ Hi, I'm Aryan Antad, an AI & Machine Learning Engineer passionate about building AI solutions that solve real-world problems.
