@@ -4,8 +4,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+AI-Powered+Applications;NLP+%7C+Generative+AI+%7C+FastAPI;Flutter+Developer;Hackathon+Finalist+🏆" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Antad;AI+%26+Machine+Learning+Engineer;Python+Developer;Building+AI-Powered+Applications;Machine+Learning+%7C+NLP+%7C+Generative+AI" alt="Typing SVG" />
 </p>
 <h1 align="center">Hi 👋, I'm Aryan Antad</h1>
 
