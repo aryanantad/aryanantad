@@ -102,7 +102,7 @@ Content-based recommendation engine using NLP, TF-IDF, FastAPI and Streamlit.
 ### 🏥 AI Healthcare Chatbot
 Context-aware chatbot using Natural Language Processing.
 
-🔗 https://github.com/aryanantad/your-repo
+🔗 https://github.com/aryanantad/AI-Healthcare-Chatbot
 
 
 
