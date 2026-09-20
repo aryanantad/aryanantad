@@ -31,7 +31,7 @@ I believe the best way to grow as an engineer is by building, experimenting, sol
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-## 🚀 Currently Working On
+## 🚀 Currently Working on topics
 
 - 🌍 Smart Travel Companion (Flutter + FastAPI + AI)
 - 🌄 Smart Landslide Early Warning System
