@@ -9,7 +9,7 @@
 
 ✨ Hi, I'm Aryan Antad, an AI & Machine Learning Engineer passionate about building AI solutions that solve real-world problems.
 
-I'm currently developing **OneTrip**, an AI-powered travel companion that combines OCR, intelligent recommendations, expense tracking, and trip management into a single platform.
+I'm currently developing **OneTrip**, an AI-powered travel companion that combines OCR, intelligent recommendations, expense tracking, and trip management into a single platform
 
 I enjoy exploring Machine Learning, Natural Language Processing, Generative AI, and Full-Stack AI development. Whether it's creating recommendation systems, healthcare chatbots, or disaster prediction models, I love turning ideas into practical applications.
 
