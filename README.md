@@ -50,6 +50,7 @@ AI / ML
 - Generative AI
 - Pattern Recognition
 - Computer Vision
+- Anomaly Detection
 
 - ## 📊 GitHub Statistics
 
